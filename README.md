@@ -9,3 +9,6 @@ Allows you to have multiple settings for different environments like development
    `export SETTINGS_MODULE="conf.develop"
 3. Then from the main module you can import the settings.
    `from conf import settings`
+
+## Example usage
+[![asciicast](https://asciinema.org/a/5SUW0z91dWQcqwyQLK7XGUyVb.svg)](https://asciinema.org/a/5SUW0z91dWQcqwyQLK7XGUyVb)
