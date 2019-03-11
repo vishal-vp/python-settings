@@ -11,4 +11,4 @@ Allows you to have multiple settings for different environments like development
    `from conf import settings`
 
 ## Example usage
-[![asciicast](https://asciinema.org/a/5SUW0z91dWQcqwyQLK7XGUyVb.svg)](https://asciinema.org/a/5SUW0z91dWQcqwyQLK7XGUyVb)
+[![asciicast](https://asciinema.org/a/V7G9hZTOsgCIEP9Bq7M0utHZ8.svg)](https://asciinema.org/a/V7G9hZTOsgCIEP9Bq7M0utHZ8)
